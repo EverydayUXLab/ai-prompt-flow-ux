@@ -11,7 +11,10 @@ This project presents an anonymized UX and performance-perception audit of an AI
 ## Key Insight
 Most usability issues stemmed from UX and system feedback gaps — not model quality.
 
-## Live Demo
-(Add link after deployment)
+## 🔗 Live Demo
 
-> This is an anonymized case study. No client data, prompts, or models are exposed.
+👉 **Deployed UX Audit Demo:**  
+https://ai-prompt-flow-ux.onrender.com/
+
+> This is an anonymized, UX-only audit demo.  
+> No real client data, screenshots, or proprietary systems are used.
